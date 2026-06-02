@@ -1,0 +1,6 @@
+tavily-python
+resend
+jinja2
+python-dotenv
+requests
+beautifulsoup4
